@@ -9,7 +9,7 @@ a:link {
 }
 
 .page-header h1,
-.page-header h1, a,
+.page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
     color: #ffffff;
@@ -70,3 +70,14 @@ h4 {
     color:#ffffff;
 }
 
+.btn-primary,
+.btn-primary:visited {
+    color:#ffffff;
+    background: none;
+    border-color: #C25100;
+}
+
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #525252;
+}
